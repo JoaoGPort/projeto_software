@@ -12,7 +12,7 @@ trocas de pontos entre outras empresas do mercado, e também o programa de recom
 Oferecemos além disso, um rápido e prático modelo de  atendimento ao cliente, delivery expresso para todas as regiões do Brasil.
 ****
 
-##Análise do cenário de negócio
+## Análise do cenário de negócio
 ****
 O mercado de vendas no Brasil tem crescido em ritmo acelerado, portanto precisamos oferecer diferenciais ao clientes.
 Sendo estes diferenciais:
