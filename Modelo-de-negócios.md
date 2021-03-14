@@ -1,0 +1,1 @@
+## Análise do cenário de negócio
