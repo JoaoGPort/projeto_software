@@ -30,3 +30,6 @@ Através dessas vantagens, procuramos manter uma boa relação empresa-consumido
 * Verificar o estoque
 
 
+***
+![](https://imgur.com/LC2NDe8)
+
