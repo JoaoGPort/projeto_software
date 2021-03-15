@@ -14,5 +14,6 @@ Oferecemos além disso, um rápido e prático modelo de  atendimento ao cliente,
 **Victor Locateli**
 
 Estudante de ciência da computação, tem interesse nas áreas de linguagens formais, sistemas operacionais (Unix), com experiência em linguagens
-de baixo nível (C,C++,x86) como linguagens de alto nível (JavaScript,Python).
-No tempo livre, gosta de aprender idiomas, fala atualmente 4 idiomas (português,alemão,japonês,inglês).
+de baixo nível (C,C++,x86) como linguagens de alto nível (Python).
+No tempo livre, gosta de aprender idiomas, fala atualmente 4 idiomas 
+(português,alemão,japonês,inglês).
