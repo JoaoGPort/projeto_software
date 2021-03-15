@@ -29,6 +29,8 @@ Através dessas vantagens, procuramos manter uma boa relação empresa-consumido
 * Criar cadastro/alterar cadastro existente
 * Verificar o estoque
 
+***
+
 
 **Compra**
 
