@@ -19,6 +19,7 @@ No tempo livre, gosta de aprender idiomas, fala atualmente 4 idiomas
 (português,alemão,japonês,inglês).
 
 **João**
+
 Desenvolvedor de aplicativos mobile e estudante de Ciência da Computação. Possui experiência nas áreas de desenvolvimento web e de design de jogos e foca na parte de interação com o usuário.
 Atualmente programa em C#, Python e ActionScript3, mas possui contato com C++, Lua e todas as ferramentas web (HTML5, CSS, JavaScript e um pouco de PHP).
 Além da informática tem interesse em música, tocando uma variedade de instrumentos e criando arranjos de obras populares, e filosofia clássica, em especial Platão.
