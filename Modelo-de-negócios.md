@@ -31,5 +31,5 @@ Através dessas vantagens, procuramos manter uma boa relação empresa-consumido
 
 
 ***
-![](https://imgur.com/LC2NDe8)
+![](https://i.imgur.com/LC2NDe8.png)
 
