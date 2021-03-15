@@ -40,4 +40,4 @@ Através dessas vantagens, procuramos manter uma boa relação empresa-consumido
 
 **Suporte**
 
-![](https://i.imgur.com/mjdzOtM.png)
+![](https://i.imgur.com/q354zNB.png)
