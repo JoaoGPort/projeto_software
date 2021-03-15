@@ -13,7 +13,7 @@ Oferecemos além disso, um rápido e prático modelo de  atendimento ao cliente,
 
 **Victor**
 
-Estudante de ciência da computação, tem interesse nas áreas de linguagens formais, sistemas operacionais (Unix), com experiência em linguagens
-de baixo nível (C,C++,x86) como linguagens de alto nível (Python).
+Estudante de ciência da computação, tem interesse nas áreas de linguagens  programação em baixo nível, teoria de linguagens de programação e teoria de tipos, sistemas operacionais (Unix), com experiência em linguagens
+de baixo nível (C,C++,x86) como também linguagens de alto nível (Python).
 No tempo livre, gosta de aprender idiomas, fala atualmente 4 idiomas 
 (português,alemão,japonês,inglês).
