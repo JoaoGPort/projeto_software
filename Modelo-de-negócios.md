@@ -12,6 +12,17 @@ Através dessas vantagens, procuramos manter uma boa relação empresa-consumido
 
 ## Definições das fronterias do negócio
 
-
+1-Cliente
+* Criar/alterar cadastro
+* Procurar produtos
+* Comprar produtos
+* Solicitar suporte ao cliente
+* Selecionar os metódos de pagamento vigentes
+2-Sistema
+* Avaliar pagamento
+* Aprovar pagamento
+3-Vendedor
+* Criar cadastro/alterar cadastro existente
+* Verificar o estoque
 
 
